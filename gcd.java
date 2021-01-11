@@ -15,3 +15,7 @@ public class gcd {
 		return getGCD(q, p % q);
 	}
 }
+
+/*
+Using recursion
+*/
