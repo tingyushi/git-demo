@@ -8,6 +8,10 @@
 
 
 public class gcd {
+	public static void main(String[] args){
+		System.out.println("aa");
+	}
+
 	public static int getGCD(int p, int q) {
 		if (q == 0) {
 			return p;
